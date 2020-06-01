@@ -1,0 +1,3 @@
+Hello world.
+This is my forst attempt at git bash 
+See you on the other side
